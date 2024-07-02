@@ -198,7 +198,7 @@ p:last-child {
     color: #5e9a28;
 }
 .colorsbg{
-    background:#FFE1BD ;
+    background:#A67D39 ;
 }
 .whitetext {
     color: #fff;
@@ -313,7 +313,7 @@ Separator
     height: 2px;
     width: 50px;
     margin:10px auto;
-    background: #fff;
+    background: #000;
 }
 .separator4 {
     height: 2px;
