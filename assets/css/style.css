@@ -539,7 +539,7 @@ input::-ms-input-placeholder {
     padding-top: 15px;
     padding-bottom: 20px;
     font-size: 0.875rem;
-    color: #333;
+    color: #fff;
 }
 .navbar-brand>img {
     max-width: 80%;
