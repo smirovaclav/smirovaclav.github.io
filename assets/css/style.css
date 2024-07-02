@@ -565,11 +565,11 @@ input::-ms-input-placeholder {
 
 }
 .main_home h1{
-    color: #fff;
+    color: #000;
     padding-bottom: 25px;
 }
 .main_home p.subtitle{
-    color: #000;
+    color: #fff;
     padding-bottom: 25px;
     font-size:1.5rem;
     line-height: 2rem;
