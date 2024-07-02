@@ -513,7 +513,7 @@ input::-ms-input-placeholder {
     margin-top: 0px;
     background-color: #000;
     border-bottom: 1px solid #ddd;
-    height: 155px;
+    height: 100px;
     transition: all 0.3s;
 }
 .main_menu_bg .navbar-default {
