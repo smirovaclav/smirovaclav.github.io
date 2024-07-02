@@ -650,9 +650,9 @@ service section css
 
 .main_team_area .single_team .team img{
     margin-bottom:20px;
-    width:168px;
-    height: 168px;
-    margin:20px;
+    width: 84px;
+    height: 84px;
+    margin:20px auto;
 }
 .main_team_area .owl-controls{
     margin-top:50px;
