@@ -542,10 +542,10 @@ input::-ms-input-placeholder {
     color: #fff;
 }
 .navbar-brand>img {
-    margin-bottom:20px;
-    width: 168px;
-    height: 168px;
-    margin:20px auto;
+   padding-top: 10px;
+   padding-bottom: 10px;;
+   width: 168px;
+   height: 168px;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus{
     background-color:transparent;
