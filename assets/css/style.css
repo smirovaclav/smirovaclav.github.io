@@ -489,7 +489,7 @@ input::-ms-input-placeholder {
     z-index: 300;
     box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
     -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    background-color:#fff;
+    background-color:#000;
     -webkit-transition:all .3s;
     -moz-transition:all .3s;
     transition:all .3s;
@@ -511,7 +511,7 @@ input::-ms-input-placeholder {
 }
 .main_menu_bg{
     margin-top: 0px;
-    background-color: #fff;
+    background-color: #000;
     border-bottom: 1px solid #ddd;
     height: 155px;
     transition: all 0.3s;
@@ -523,7 +523,7 @@ input::-ms-input-placeholder {
     margin: 15px auto;
 }
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-    color:#000000;
+    color:#ffffff;
 }
 .main_menu_bg .nave_menu {
     margin-top:50px;
@@ -531,7 +531,7 @@ input::-ms-input-placeholder {
 }
 
 .main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-    color: #000000;
+    color: #ffffff;
     background:url(../images/line.png) no-repeat scroll 15px 40px;
 }
 
